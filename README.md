@@ -8,7 +8,7 @@ Enthusiastic and highly motivated Full Stack Developer with a strong foundation 
 
 - 🔭 I’m currently working on a responsive ecommerce website with a payment platform.
 - 💬 Ask me about anything related to Web Development technologies
-- 📫 How to reach me: boscoiyke67@gmail.com
+- 📫 How to reach me: boscoiyke67@gmail.com  /   https://iykode.netlify.app/
 - ⚡ Fun fact: Let's connect and discuss exciting about projects or anything related to web/app development. Feel free to reach out to me if you're looking for a       Frontend/backend or about the latest tech trends!
 
 #### Skills & Technologies
@@ -17,3 +17,4 @@ Enthusiastic and highly motivated Full Stack Developer with a strong foundation 
 - Framework: React - TypeScript, Vue, jQuery, Ajax.
 - Backend: Node.js - Express.
 - Databases: SQL, NoSQL, MongoDB, PostgreSQL, MySQL.
+- Git: gitHub
