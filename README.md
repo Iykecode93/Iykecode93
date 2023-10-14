@@ -4,7 +4,7 @@ I'm Johnbosco, a Full Stack Software Engineer and passionate developer with a fo
 
 #### About Me
 
-Enthusiastic and highly motivated Full Stack Developer with a strong foundation in web development and a passion for learning. Recent graduate with hands-on experience in frontend and backend technologies, eager to contribute to innovative projects. Proficient in HTML, CSS, JavaScript, and eager to expand skills in frameworks like React and Node.js. Excels in problem-solving, collaboration, and adapting to new challenges. Committed to delivering high-quality, user-focused web applications while continually enhancing expertise in full-stack development.
+Enthusiastic and highly motivated Full Stack Developer with a strong foundation in web development and a passion for learning. Recent graduate with hands-on experience in frontend and backend technologies, eager to contribute to innovative projects. Proficient in HTML, CSS, JavaScript, React and eager to expand skills in latest technologies. Excels in problem-solving, collaboration, and adapting to new challenges. Committed to delivering high-quality, user-focused web applications while continually enhancing expertise in full-stack development.
 
 - 🔭 I’m currently working on a responsive ecommerce website with a payment platform.
 - 💬 Ask me about anything related to Web Development technologies
